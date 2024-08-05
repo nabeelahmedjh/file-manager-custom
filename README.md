@@ -3,7 +3,7 @@
 ## Backend for File Manager
 
 ```bash
-cd Backend/node_modes/@syncfusion/ej2-filemanager-node-filesystem
+cd Backend/node_modules/@syncfusion/ej2-filemanager-node-filesystem
 
 npm i
 
